@@ -11,7 +11,7 @@ Biomedical engineer in Torrance, CA. M.S. Biomedical Engineering from Stevens, B
 
 `Python` `FastAPI` `React` `MATLAB` `SQL` `SolidWorks` `Git` `TensorFlow` `Figma`
 
-**Domains:** Medical Equipment · Human Factors Engineering · Medical Device V&V · IEC 62366-1 · ISO 14971 · Machine Learning
+**Domains:** Medical Equipment · Human Factors Engineering · Medical Device V&V · IEC 62366-1 · Machine Learning
 
 ## Links
 
